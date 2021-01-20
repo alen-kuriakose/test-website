@@ -1,0 +1,83 @@
+*{
+    box-sizing: border-box;
+    font-family: Montserrat;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none
+}
+
+h1.logo{
+    text-align: center;
+    margin: auto;
+    padding: 120px 0px 0px 0px;
+    font-size: 60px;
+    color: #270B6f
+    
+    
+    
+}
+
+div.bg{
+    background-image: url(../images/Mask%20Group.jpg);
+    width: 100%;
+    margin: auto;
+    padding: 185px;
+    background-size: cover;
+    height: 100%
+}
+
+
+
+button.lets{
+    font-weight: 700;
+    background: #270B6F;
+    width: 200px;
+    font-size: 22px;
+    border-radius: 250px;
+    margin: auto;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none;
+    border: none;
+    
+}
+
+ul{
+    font-size: 14px;
+    padding: 40px 120px;
+    float: right;
+    align-items: center;
+    
+}
+
+ul li{
+    display: inline-block;
+    justify-content: space-between;
+    padding: 10px 20px;
+    font-weight: 700;
+    color: #270B6F;
+}
+
+
+
+li:hover{
+    background: #D4F5FC;
+    border-radius: 30px;
+    height: auto;
+    width: auto;
+}
+
+button.lets:hover{
+    background: #6830EB;
+    
+    
+}
+
+h1.logo:hover{
+    color: #6830EB;
+}
+
+
